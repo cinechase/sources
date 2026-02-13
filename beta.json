@@ -72,6 +72,42 @@
     }
   },
   {
+    "id": "F8458B8B-FD53-4825-9F4A-5FB60E2C1E06",
+    "name": "360资源",
+    "type": 0,
+    "api": "https://360zy.com/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "FA342D8C-3FEF-4359-81DF-C90A579EAB21",
+    "name": "天翼资源",
+    "type": 0,
+    "api": "https://www.911ysw.top/tianyi.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "0A8473E3-AC7B-47C1-9932-C3FD6EBC5D56",
+    "name": "非凡资源",
+    "type": 0,
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
     "id": "20F2C171-9D39-4928-9FB0-95D72ACD008B",
     "name": "爱奇艺资源",
     "type": 0,
@@ -108,6 +144,30 @@
     }
   },
   {
+    "id": "FCA9115A-FCDC-4CEA-B107-13419F401ED2",
+    "name": "1080资源",
+    "type": 0,
+    "api": "http://api.1080zyku.com/inc/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "E3B6C39B-0667-46D4-B1E2-ED6C251F3FB3",
+    "name": "量子资源",
+    "type": 0,
+    "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
     "id": "5D577FCA-33D7-4A5C-A0B2-1A3768A1EF07",
     "name": "暴风资源",
     "type": 0,
@@ -115,6 +175,158 @@
     "logo": "",
     "nsfw": false,
     "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "CD8C4BED-B09A-4264-9220-58897D516EA7",
+    "name": "卧龙资源",
+    "type": 0,
+    "api": "http://collect.wolongzyw.com/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "A7A54A17-6549-4AA7-AC89-BAD4AA28B8AF",
+    "name": "电影天堂",
+    "type": 0,
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "3E700DD8-E82C-4A83-8B0D-A1B3A8128E90",
+    "name": "天涯影视",
+    "type": 0,
+    "api": "https://tyyszyapi.com/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "F62D0833-3B86-49CB-BDAD-67A1F7C313A3",
+    "name": "光速资源",
+    "type": 0,
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "048F5770-5D19-4A8F-9074-0715C646797D",
+    "name": "百度资源",
+    "type": 0,
+    "api": "http://api.apibdzy.com/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "BB046736-95B8-40A1-BB45-08867735DAD2",
+    "name": "魔都资源",
+    "type": 0,
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "7296224B-DD94-41EB-B914-22CB0DD66204",
+    "name": "豆瓣资源",
+    "type": 0,
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "07FFD09D-DEBC-42A2-84AB-6E22995B0C61",
+    "name": "猫眼资源",
+    "type": 0,
+    "api": "https://api.maoyanapi.top/api.php/provide/vod",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "A01A8197-C918-4508-BBDB-D84B7C0BE745",
+    "name": "闪电资源",
+    "type": 0,
+    "api": "http://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "4C57C44E-88EB-45E3-BC43-3E003DA59861",
+    "name": "红牛资源",
+    "type": 0,
+    "api": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "185581E1-5FDA-4CB3-A69B-3108D47C054E",
+    "name": "速播资源",
+    "type": 0,
+    "api": "https://subocj.com/api.php/provide/vod/at/json",
+    "logo": "",
+    "nsfw": false,
+    "status": true,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "moduziyuan",
+    "name": "魔都资源",
+    "api": "https://www.moduzy.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "suoniziyuan",
+    "name": "索尼资源",
+    "api": "https://suoniapi.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
     "extra": {
       "gfw": false
     }
