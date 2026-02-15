@@ -315,6 +315,7 @@
     "id": "moduziyuan",
     "name": "魔都资源",
     "api": "https://www.moduzy.com/api.php/provide/vod",
+    "logo": "",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -325,6 +326,7 @@
     "id": "suoniziyuan",
     "name": "索尼资源",
     "api": "https://suoniapi.com/api.php/provide/vod",
+    "logo": "",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -335,6 +337,7 @@
     "id": "haohuaziyuan",
     "name": "豪华资源",
     "api": "https://hhzyapi.com/api.php/provide/vod",
+    "logo": "",
     "nsfw": false,
     "type": 0,
     "extra": {
